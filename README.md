@@ -1,7 +1,8 @@
-# EJP-RD Catalogs
+# Metadata for EJP rare disease patient registries, biobanks and catalogs
 
-This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
-Feel free to fork, change, modify and re-use it.
+As part of the European Joint Programme (EJP) for Rare Disease, we are developing standards for rare disease registries to describe their metadata that will imporve the FAIR-ness of these resources.
+
+The core model is designed to represent data about a rare disease patient and biosample registries. The model is based on and builds on existing standards, such as the European Rare Disease Registry Infrastructure and the Common Data Elements from the rare disease community and other more generalised standards for data sharing such as the W3C DCAT vocabulary. We are also working to align with similar schema standarisation efforts such as RD connect semantic model, schema.org, bioschemas, MIABIS and GA4GH (see also schema blocks and phenopackets. A proposed semantic model for the Common Data Elements can be found here.
 
 ## How to use it
 
