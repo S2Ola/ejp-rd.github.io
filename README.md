@@ -1,8 +1,9 @@
-# Metadata for EJP rare disease patient registries, biobanks and catalogs
+As part of the [European Joint Programme (EJP) for Rare Disease](http://www.ejprarediseases.org), we are developing standards for rare disease registries to describe their metadata that will imporve the FAIR-ness of these resources.
 
-As part of the European Joint Programme (EJP) for Rare Disease, we are developing standards for rare disease registries to describe their metadata that will imporve the FAIR-ness of these resources.
+The core model is designed to represent data about a rare disease patient and biosample registries. The model is based on and builds on existing standards, such as the [European Rare Disease Registry Infrastructure](https://eu-rd-platform.jrc.ec.europa.eu) and the [Common Data Elements](http://www.erare.eu/sites/default/files/SetCommonData-EU%20RD%20Platform_CDS%20_final.pdf) from the rare disease community and other more generalised standards for data sharing such as the W3C [DCAT vocabulary](https://www.w3.org/TR/vocab-dcat/). We are also working to align with similar schema standarisation efforts such as [RD connect semantic model](https://github.com/LUMC-BioSemantics/Rare-Disease-Semantic-Model), [schema.org](https://schema.org), [bioschemas](https://bioschemas.org), [MIABIS](https://github.com/MIABIS/miabis/wiki) and [GA4GH](https://www.ga4gh.org) (see also [schema blocks](https://schemablocks.org) and [phenopackets](http://phenopackets.org). A proposed semantic model for the Common Data Elements can be found [here](https://github.com/LUMC-BioSemantics/ERN-common-data-elements).
 
-The core model is designed to represent data about a rare disease patient and biosample registries. The model is based on and builds on existing standards, such as the European Rare Disease Registry Infrastructure and the Common Data Elements from the rare disease community and other more generalised standards for data sharing such as the W3C DCAT vocabulary. We are also working to align with similar schema standarisation efforts such as RD connect semantic model, schema.org, bioschemas, MIABIS and GA4GH (see also schema blocks and phenopackets. A proposed semantic model for the Common Data Elements can be found here.
+
+> Status: DRAFT - 16th July, 2019. This is currently a strawman proposal intended to generate discussion and help in developing an early demonstrator.
 
 ## How to use it
 
